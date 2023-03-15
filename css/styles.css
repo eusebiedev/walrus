@@ -1,10 +1,15 @@
 img {
-  float: left;
+  float: right;
   border-radius: 20%;
 }
 
 .sidebar {
   width: 30%;
-  float:right;
-  background-color: yellow;
+  float:left;
+  background-color: blue;
+}
+
+.column {
+  width: 30%;
+  float: left;
 }
